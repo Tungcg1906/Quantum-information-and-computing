@@ -11,4 +11,5 @@ Implementation 2-qubit gates with charge superconducinng qubits and build the De
 ## Deutsch-Jozsa algorithm
 - The Deutsch-Jozsa algorithm, a milestone in quantum computing, efficiently determines whether a given function is constant or balanced with just one query. In contrast to classical algorithms requiring multiple queries, this quantum algorithm showcases the speedup potential of quantum parallelism, offering a tangible advantage in specific computational tasks.
 - **Description:** The detailed file can be represented in .ipynb files `deutsch_algo_with_actual_gates.ipynb` and `2 qubit Deustch algorithm.ipynb`.
+  
  ![Diagram](Project/gate.png)
